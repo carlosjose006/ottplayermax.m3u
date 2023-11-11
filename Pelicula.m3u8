@@ -1,11 +1,28 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwYjA3MWItOWQ2Yi00ZDkxLTkyNmMtNjBkZGMwNTExMmYwXkEyXkFqcGdeQXVyNTg3MjA4NDc@._V1_.jpg" group-title="Extrenos", Strawberry
-https://ds2play.com/d/taybey2991e0
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q2nTVf89OQg/maxresdefault.jpg" group-title="Accion", Termination 8
-https://869456160.tapecontent.net/radosgw/wzJDbPOlqyhJMyR/5P2Ty6tFWHxqF0l6pv3jCJNyVzV3WoXiy1qQ5brFkZnHVu3-qiBukzS4NokaBMbbVKzHxQCFFMnCo2KF88u_eenXUigYjbYy-ima_0vtpctj8edn_dAjcMaVn09qBLD-okl0RiOodGatwJ6WcSN7zsQpjP5I80yyky_mkmK9ua_9RT_Ve5D3ryxjq6XpDS3qDZQb0zADxGbJG66UIVSx6dZ92bBLpumvwlJX9s2c876uaXnNJ3HaW1IU4u7RQvHAN37o7yLlRNXGvpYJjl84OJZCWxpn0SHgC6lu6DRlyL-oHvHzT6J2x-_oooA/Terminator.8.2023.1080p.WEBRip.LAT.DUB.1XBET.mp4?stream=1
-
-
-EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q2nTVf89OQg/maxresdefault.jpg" group-title="Accion"
-http://170.254.172.10:8000/playlist.m3u8
+EXTM3U
+#EXTINF:0,EL ORIGEN DEL PLANETA DE LOS SIMIOS
+#EXTGRP:PELÍCULAS
+https://pc-20.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/9a295c64ec41ff7909a47984d681dbb3/EP.0.1.v0.1677323815.m3u8
+#EXTINF:0,EL AMANECER DEL PLANETA DE LOS SIMIOS
+#EXTGRP:PELÍCULAS
+https://pc-37.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/2976e1588b7faa559180b42371303490/EP.0.1.v0.1676877590.m3u8
+#EXTINF:0,EL PLANETA DE LOS SIMIOS 2001
+#EXTGRP:PELÍCULAS
+http://archive.org/download/pplaneta-de-lossimios-2001/P14N37AD3L0SS1M10S.mp4
+#EXTINF:0,EL PLANETA DE LOS SIMIOS La Revolución
+#EXTGRP:PELÍCULAS
+http://archive.org/download/p-14n-374-d-3-l-0-s-51-m-105-ev-01-uc-10-n/P14n374D3L0S51M105EV01UC10N.mp4
+#EXTINF:0,Snake Eyes: G.I. Joe Origins (2021)
+#EXTGRP:unsorted
+https://archive.org/download/vibora/vibora.mkv
+#EXTINF:0,The Suicide Squad (2021)[DUAL]
+#EXTGRP:unsorted
+https://archive.org/download/manguera_202108/Th3%205u1c1d3%205qu4d%202.mkv
+#EXTINF:0,Centinela (2021)
+#EXTGRP:unsorted
+https://archive.org/download/carros_202109/C3nt1n3l4.mp4
+#EXTINF:0,Free Guy (2021)
+#EXTGRP:unsorted
+https://archive.org/download/manguera_20210927/_Fr33%205uy.mkv
+#EXTINF:0,rapidos y furiosos opcion 1
+#EXTGRP:unsorted
+https://archive.org/download/r-4-f-0-9/R4%20%26%20F0%209.mp4
